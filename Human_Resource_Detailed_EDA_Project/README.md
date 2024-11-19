@@ -74,23 +74,6 @@ Detailed EDA Project 🚀
 
 ---
 
-*For more details about the analysis and visualization, check out the notebook on the repository.*
-
-### Installation
-
-To run the notebooks and explore the projects locally:
-
-Clone the repository and open the Jupyter Notebook to explore.
-
-    git clone https://github.com/Duygu-Jones/EDA_Projects.git
-
-
-*To view the notebook online, visit my Kaggle profile. Don't forget to join the discussion!*
-
-- **Kaggle Notebook**: [Human Resources EDA Project](https://www.kaggle.com/code/duygujones/human-resources-churn-analysis)
-
----
-
 ## 🤝Contributing
 
 Contributions are welcome! If you have any improvements, suggestions, or additional datasets and EDA projects to share, please fork the repository and create a pull request.
@@ -99,16 +82,8 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me 
 
-I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
+I'm Kalyani Wagh, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
-♻️ You can find more about me and my work through the following links:
-
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
-- **Tableau Public**: [Duygu Jones on Tableau Public](https://public.tableau.com/app/profile/duygu.jones/vizzes)
 
 🌐Feel free to connect with me!
 
@@ -121,9 +96,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data visualization, analysis
 Code with joy! 👩‍💻✨
 
 ---
-
-
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
